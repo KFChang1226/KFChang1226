@@ -2,7 +2,7 @@
 - 👀 I’m interested in Oceanography
 - 🌱 I’m currently learning Physical Oceanography at Beaver Nation, Oregon State University.
 - 💞️ I’m looking to collaborate on sea-going pregram!
-- 📫 How to reach me ...
+- 📫 chankaif@oregonstate.edu
 
 <!---
 KFChang1226/KFChang1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
